@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <div align="center">
-  <img src="./asset/SultanFaaiz.png">
+  <img src="./asset/Sultan Faaiz.png">
 </div>
 
 
