@@ -1,26 +1,22 @@
 <!-- Banner Image -->
-![Banner](https://via.placeholder.com/1200x400?text=Welcome+to+Sultan+Faaiz's+GitHub+Profile)
+<div align="center">
+  <img src="./asset/SultanFaaiz.png">
+</div>
+
+
 
 <h1 align="center">Hi, I'm Sultan Faaiz 👋</h1>
 <h3 align="center">Frontend Developer Wannabe, Still learning small things</h3>
 
-<p align="center">
-  <a href="https://github.com/SultanFaaiz?tab=followers">
-    <img src="https://img.shields.io/github/followers/SultanFaaiz?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://twitter.com/your_twitter_handle">
-    <img src="https://img.shields.io/twitter/follow/your_twitter_handle?label=Follow%20me&style=social" alt="Twitter Followers" />
-  </a>
-</p>
+
 
 <!-- About Me -->
 ## About Me
 
-- 🌱 I’m currently learning **Frontend Development**
-- 💼 Working on improving my skills in **JavaScript, HTML, CSS**
-- 💬 Ask me about **anything tech-related**
-- 📫 How to reach me: **sultanfaaiz@example.com**
-- ⚡ Fun fact: **I love solving puzzles and playing video games**
+- :full_moon_with_face: I’m currently learning **Frontend Development**
+- :neutral_face: need some guide cause **Im Still Learning**
+- :computer: Working on improving my skills in **JavaScript, HTML, CSS**
+- :video_game: I love playing **video games**
 
 <!-- Skills -->
 ## Skills
@@ -30,24 +26,16 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+
 </p>
 
-<!-- GitHub Stats -->
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SultanFaaiz&show_icons=true&theme=radical" alt="Sultan Faaiz's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SultanFaaiz&theme=radical" alt="Sultan Faaiz's GitHub streak" />
-</p>
 
 <!-- Top Languages -->
 ## Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SultanFaaiz&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stebern17&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <!-- Connect with me -->
