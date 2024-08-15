@@ -1,10 +1,3 @@
-<!-- Banner Image -->
-<div align="center">
-  <img src="./asset/Sultan Faaiz.png">
-</div>
-
-
-
 <h1 align="center">Hi, I'm Sultan Faaiz 👋</h1>
 <h3 align="center">Frontend Developer Wannabe, Still learning small things</h3>
 
