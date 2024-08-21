@@ -6,10 +6,9 @@
 <!-- About Me -->
 ## About Me
 
-- :full_moon_with_face: I’m currently learning **Frontend Development**
-- :neutral_face: need some guide cause **Im Still Learning**
-- :computer: Working on improving my skills in **JavaScript, HTML, CSS**
-- :video_game: I love playing **video games**
+- I’m currently learning **Frontend Development**
+- need some guide cause **Im Still Learning**
+- Working on improving my skills in **JavaScript, HTML, CSS**
 
 <!-- Skills -->
 ## Skills
