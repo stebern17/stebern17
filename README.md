@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sultan Faaiz 👋</h1>
-<h3 align="center">Frontend Developer Wannabe, Still learning small things</h3>
+<h3 align="center">Still learning a small things</h3>
 
 
 
