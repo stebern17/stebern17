@@ -29,14 +29,25 @@
 - 🧾 Building a simple **ERP system** with Laravel + Filament
 - 🛒 Developing a **POS (Point of Sales)** app using Laravel & Blade
 - 🖥️ Learning **Next.js + API integration** for fullstack web development
+- 💼 Currently working at a digital marketing agency as a Web Developer.
 
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stebern17&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
-  <img src="https://streak-stats.demolab.com?user=stebern17&theme=radical&hide_border=true" alt="GitHub Streak" height="160" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=stebern17&theme=dark&show_icons=true&hide_border=true&count_private=true" 
+    alt="GitHub Stats" 
+    height="180"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=stebern17&theme=dark&show_icons=true&hide_border=true&layout=compact" 
+    alt="Top Languages" 
+    height="180"
+  />
 </p>
+
 
 
 ## 🌐 Connect with Me
