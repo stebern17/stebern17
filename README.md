@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Sultan Faaiz 👋</h1>
 <h3 align="center">Still learning small things, one step at a time 🚀</h3>
 
----
 
 ## 🧠 About Me
 
@@ -10,7 +9,6 @@
 - 💡 Open to learning from others — because **I'm still growing**
 - ⚙️ Interested in **building modern web applications** with clean UI/UX
 
----
 
 ## 🛠️ Tech Stack
 
@@ -25,7 +23,6 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
----
 
 ## 📚 What I'm Working On
 
@@ -33,7 +30,6 @@
 - 🛒 Developing a **POS (Point of Sales)** app using Laravel & Blade
 - 🖥️ Learning **Next.js + API integration** for fullstack web development
 
----
 
 ## 📊 GitHub Stats
 
@@ -42,7 +38,6 @@
   <img src="https://streak-stats.demolab.com?user=stebern17&theme=radical&hide_border=true" alt="GitHub Streak" height="160" />
 </p>
 
----
 
 ## 🌐 Connect with Me
 
@@ -55,7 +50,6 @@
   </a>
 </p>
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SultanFaaiz&style=flat-square&color=blue" alt="Profile Views" />
