@@ -31,25 +31,6 @@
 - 🖥️ Learning **Next.js + API integration** for fullstack web development
 - 💼 Currently working at a digital marketing agency as a Web Developer.
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=stebern17&theme=dark&show_icons=true&hide_border=true&count_private=true" 
-    alt="GitHub Stats" 
-    height="180"
-  />
-  &nbsp;&nbsp;&nbsp;
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=stebern17&theme=dark&show_icons=true&hide_border=true&layout=compact" 
-    alt="Top Languages" 
-    height="180"
-  />
-</p>
-
-
-
 ## 🌐 Connect with Me
 
 <p align="center">
