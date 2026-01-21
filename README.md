@@ -65,8 +65,6 @@
   </a>
 </p>
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SultanFaaiz&style=flat-square&color=blue" alt="Profile Views" />
 </p>
